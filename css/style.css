@@ -24,12 +24,13 @@ img{
     text-align: center;
  
 }
-/* contenedor padre */
+/*  */
 .row
 {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 
